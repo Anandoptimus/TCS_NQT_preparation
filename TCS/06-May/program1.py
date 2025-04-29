@@ -1,4 +1,5 @@
-# tcs exam complete with 4/7 test case for the first code and 7/7 test case for the second code
+# tcs exam complete with 4/7 test case for the first code and 7/7 test case for the second code 
+# got selected to PRIME
 
 # a = [3, 3, 3, 2, 2, 1, 1, 1]
 a = [1]
